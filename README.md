@@ -1,16 +1,41 @@
-# React + Vite
+# Wendy's Web Development Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my portfolio! I'm Wendy, a web development student showcasing the projects I've created throughout my Web Development Bootcamp.
 
-Currently, two official plugins are available:
+## About This Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This responsive, multi-page portfolio highlights my learning journey, technical skills, and completed projects. It was built using React, JavaScript, and CSS, with a lavender and purple design theme.
 
-## React Compiler
+## Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Home:** Introduction and welcome to my portfolio.
+- **About:** My learning journey and goals.
+- **Skills:** Technologies and tools I've learned.
+- **Projects:** A showcase of my completed bootcamp projects.
+- **Contact:** A form for visitors to get in touch.
 
-## Expanding the Oxlint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. **Crystal Haven** – A gemstone shop built with React and Firebase, featuring account creation and login.
+2. **Weather App** – A weather dashboard using React and the OpenWeather API.
+3. **Crystal Compass** – A crystal meaning search website built with HTML, CSS, JavaScript, and jQuery.
+4. **Crystal Bracelet Finder** – An interactive personality quiz that recommends crystals.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- React Router
+- Firebase
+- APIs
+- Vite
+
+## Live Website
+
+[Visit Wendy's Portfolio](https://wendy-portfolio-nine.vercel.app/)
+
+---
+
+Created by Wendy as part of my Web Development Bootcamp.
